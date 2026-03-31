@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Cache
+.pytest_cache/
+
+# Não ignorar resultados importantes
+!Estudo-Digido-Parte-1/resultados/*.png
