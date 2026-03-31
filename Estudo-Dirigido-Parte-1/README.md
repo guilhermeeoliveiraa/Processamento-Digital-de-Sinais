@@ -2,10 +2,6 @@
 
 ## Modelagem de Sinais e Sistemas Discretos
 
-Este repositório contém a implementação completa da atividade proposta na disciplina de **Processamento Digital de Sinais**, abordando desde os fundamentos teóricos até simulações computacionais e análise de resultados.
-
----
-
 # 🎯 Objetivo Geral
 
 O objetivo deste projeto é compreender como **fenômenos físicos reais podem ser representados como sinais discretos**, além de analisar como sistemas digitais processam essas informações.
@@ -173,11 +169,5 @@ Ao final desta etapa, foi possível:
 * ✔️ compreender a importância da estabilidade e causalidade;
 * ✔️ interpretar sinais reais no contexto digital;
 * ✔️ desenvolver raciocínio matemático aplicado ao processamento de sinais.
-
----
-
-# 👨‍💻 Observação Final
-
-Todos os códigos foram desenvolvidos com foco didático, como um estudo dirigido da disciplina de Processamento Digital de Sinais, evitando dependências complexas e priorizando clareza na implementação dos conceitos.
 
 ---
