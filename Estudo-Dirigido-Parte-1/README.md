@@ -169,5 +169,3 @@ Ao final desta etapa, foi possível:
 * ✔️ compreender a importância da estabilidade e causalidade;
 * ✔️ interpretar sinais reais no contexto digital;
 * ✔️ desenvolver raciocínio matemático aplicado ao processamento de sinais.
-
----
