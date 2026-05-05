@@ -8,8 +8,8 @@ Este documento apresenta a **análise dos resultados obtidos** nas simulações 
 
 ## 📈 Resultados Obtidos
 
-![Sinal de Vibração](../resultados/vibracao_tempo.png)
-![Espectro de Frequência](../resultados/vibracao_fft.png)
+![Sinal de Vibração](../resultados/graficos/vibracao_tempo.png)
+![Espectro de Frequência](../resultados/graficos/vibracao_fft.png)
 
 ## 🧠 Análise
 
@@ -37,9 +37,9 @@ Este documento apresenta a **análise dos resultados obtidos** nas simulações 
 
 ## 📈 Resultados Obtidos
 
-![Temperatura Real vs Medida](../resultados/termico_real_vs_medido.png)
-![Temperatura Filtrada](../resultados/termico_filtrado.png)
-![Taxa de Variação](../resultados/termico_derivada.png)
+![Temperatura Real vs Medida](../resultados/graficos/termico_real_vs_medido.png)
+![Temperatura Filtrada](../resultados/graficos/termico_filtrado.png)
+![Taxa de Variação](../resultados/graficos/termico_derivada.png)
 
 ## 🧠 Análise
 
@@ -63,9 +63,9 @@ Este documento apresenta a **análise dos resultados obtidos** nas simulações 
 
 ## 📈 Resultados Obtidos
 
-![Sinal Ideal](../resultados/digital_ideal.png)
-![Sinal com Ruído](../resultados/digital_ruido.png)
-![Sinal Atrasado](../resultados/digital_atraso.png)
+![Sinal Ideal](../resultados/graficos/digital_ideal.png)
+![Sinal com Ruído](../resultados/graficos/digital_ruido.png)
+![Sinal Atrasado](../resultados/graficos/digital_atraso.png)
 
 ## 🧠 Análise
 
@@ -86,9 +86,9 @@ Este documento apresenta a **análise dos resultados obtidos** nas simulações 
 
 ## 📈 Resultados Obtidos
 
-![Sinal de Pulsos](../resultados/rotacao_pulsos.png)
-![Velocidade Real](../resultados/rotacao_real.png)
-![Velocidade Estimada](../resultados/rotacao_estimada.png)
+![Sinal de Pulsos](../resultados/graficos/rotacao_pulsos.png)
+![Velocidade Real](../resultados/graficos/rotacao_real.png)
+![Velocidade Estimada](../resultados/graficos/rotacao_estimada.png)
 
 ## 🧠 Análise
 
@@ -111,9 +111,9 @@ Este documento apresenta a **análise dos resultados obtidos** nas simulações 
 
 ## 📈 Resultados Obtidos
 
-![Sinal Original](../resultados/embarcado_original.png)
-![Filtro Média Móvel](../resultados/embarcado_mm.png)
-![Filtro Ponderado](../resultados/embarcado_mp.png)
+![Sinal Original](../resultados/graficos/embarcado_original.png)
+![Filtro Média Móvel](../resultados/graficos/embarcado_mm.png)
+![Filtro Ponderado](../resultados/graficos/embarcado_mp.png)
 
 ## 🧠 Análise
 
