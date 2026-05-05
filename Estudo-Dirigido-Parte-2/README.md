@@ -2,9 +2,6 @@
 
 ## Convolução e Sistemas LTI
 
-**Disciplina:** Processamento Digital de Sinais  
-**Professor:** Moacy Pereira da Silva  
-
 ---
 
 # 🎯 Objetivo Geral
