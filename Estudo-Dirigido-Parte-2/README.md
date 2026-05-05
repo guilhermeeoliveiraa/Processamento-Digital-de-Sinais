@@ -2,8 +2,6 @@
 
 ## Convolução e Sistemas LTI
 
----
-
 # 🎯 Objetivo Geral
 
 O objetivo desta etapa é compreender como **sistemas lineares e invariantes no tempo (LTI)** processam sinais discretos, utilizando a **convolução** como ferramenta fundamental.
