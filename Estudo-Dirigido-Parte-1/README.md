@@ -2,7 +2,7 @@
 
 ## Modelagem de Sinais e Sistemas Discretos
 
-# 🎯 Objetivo Geral
+## 🎯 Objetivo Geral
 
 O objetivo deste projeto é compreender como **fenômenos físicos reais podem ser representados como sinais discretos**, além de analisar como sistemas digitais processam essas informações.
 
@@ -15,7 +15,7 @@ A atividade integra:
 
 ---
 
-# 🧠 Abordagem do Projeto
+## 🧠 Abordagem do Projeto
 
 O trabalho foi dividido em três partes principais:
 
@@ -27,15 +27,15 @@ Essa estrutura permite conectar diretamente a teoria com aplicações reais de e
 
 ---
 
-# 📁 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
-## 📚 `/teoria`
+### 📚 `/teoria`
 
 Contém o arquivo:
 
 * `README.md` com resumo teórico do que foi estudado
 
-### ✔️ Conteúdo:
+#### ✔️ Conteúdo:
 
 * definição de sinais contínuos e discretos
 * sequências elementares (impulso, degrau, exponencial)
@@ -53,14 +53,14 @@ Contém o arquivo:
 
 ---
 
-## 💻 `/simulacoes`
+### 💻 `/simulacoes`
 
 Contém:
 
 * `README.md` com detalhes sobre as simulações
 * códigos Python das simulações
 
-### 🔧 Arquivos:
+#### 🔧 Arquivos:
 
 * `1-vibracao.py` → vibração em máquinas rotativas
 * `2-sensor_termico.py` → comportamento térmico
@@ -68,7 +68,7 @@ Contém:
 * `4-rotacao.py` → velocidade e rotação
 * `5-sistema_embarcado.py` → filtragem de sinais
 
-### ✔️ O que foi implementado:
+#### ✔️ O que foi implementado:
 
 Cada simulação inclui:
 
@@ -82,14 +82,14 @@ Cada simulação inclui:
 
 ---
 
-## 📊 `/resultados`
+### 📊 `/resultados`
 
 Contém:
 
 * gráficos gerados pelas simulações (`.png`)
 * arquivo `README.md` com análise detalhada
 
-### ✔️ Tipos de resultados:
+#### ✔️ Tipos de resultados:
 
 * sinais no domínio do tempo
 * análise no domínio da frequência
@@ -97,7 +97,7 @@ Contém:
 * efeitos de ruído e filtragem
 * estimativas de grandezas físicas
 
-### 📌 Exemplos de gráficos:
+#### 📌 Exemplos de gráficos:
 
 * vibração (tempo e frequência)
 * temperatura (real vs medida)
@@ -109,7 +109,7 @@ Contém:
 
 ---
 
-# 🔬 Integração Teoria + Prática
+## 🔬 Integração Teoria + Prática
 
 O projeto demonstra que:
 
@@ -120,7 +120,7 @@ O projeto demonstra que:
 
 ---
 
-# 🚀 Aplicações em Engenharia
+## 🚀 Aplicações em Engenharia
 
 Os conceitos desenvolvidos são aplicáveis em:
 
@@ -132,11 +132,11 @@ Os conceitos desenvolvidos são aplicáveis em:
 
 ---
 
-# 🧩 Problema Norteador
+## 🧩 Problema Norteador
 
 > Como representar matematicamente o comportamento temporal de um sensor real e quais propriedades estruturais devem ser analisadas para garantir o correto processamento digital desse sinal?
 
-### ✔️ Resposta obtida:
+#### ✔️ Resposta obtida:
 
 * sensores reais podem ser modelados como sinais discretos com ruído
 * é essencial analisar:
@@ -148,7 +148,7 @@ Os conceitos desenvolvidos são aplicáveis em:
 
 ---
 
-# ✅ Conclusão
+## ✅ Conclusão
 
 Este projeto demonstra, de forma integrada, como:
 
@@ -160,7 +160,7 @@ Assim, o estudante desenvolve não apenas conhecimento teórico, mas também **c
 
 ---
 
-## 🎯 Resultados Esperados Alcançados
+### 🎯 Resultados Esperados Alcançados
 
 Ao final desta etapa, foi possível:
 

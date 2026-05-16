@@ -2,7 +2,7 @@
 
 ## Convolução e Sistemas LTI
 
-# 🎯 Objetivo Geral
+## 🎯 Objetivo Geral
 
 O objetivo desta etapa é compreender como **sistemas lineares e invariantes no tempo (LTI)** processam sinais discretos, utilizando a **convolução** como ferramenta fundamental.
 
@@ -15,7 +15,7 @@ A atividade integra:
 
 ---
 
-# 🧠 Abordagem do Projeto
+## 🧠 Abordagem do Projeto
 
 O trabalho foi organizado em atividades progressivas:
 
@@ -28,15 +28,15 @@ Essa abordagem permite consolidar o aprendizado de forma teórica e prática.
 
 ---
 
-# 📁 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
-## 📂 `/atividade-1`
+### 📂 `/atividade-1`
 
 Contém:
 
 * `README.md`
 
-### ✔️ Conteúdo:
+#### ✔️ Conteúdo:
 
 * definição de sistemas LTI  
 * interpretação da resposta ao impulso  
@@ -46,13 +46,13 @@ Contém:
 
 ---
 
-## 📂 `/atividade-2`
+### 📂 `/atividade-2`
 
 Contém:
 
 * `README.md`
 
-### ✔️ Conteúdo:
+#### ✔️ Conteúdo:
 
 * cálculo manual da convolução  
 * desenvolvimento passo a passo  
@@ -62,13 +62,13 @@ Contém:
 
 ---
 
-## 📂 `/atividade-3`
+### 📂 `/atividade-3`
 
 Contém:
 
 * `README.md`
 
-### ✔️ Conteúdo:
+#### ✔️ Conteúdo:
 
 * sistemas descritos por equações de diferenças  
 * cálculo da resposta ao impulso  
@@ -79,7 +79,7 @@ Contém:
 
 ---
 
-## 📂 `/atividade-4`
+### 📂 `/atividade-4`
 
 Contém:
 
@@ -87,7 +87,7 @@ Contém:
 * `figura_1.png`
 * `figura_2.png`
 
-### ✔️ Conteúdo:
+#### ✔️ Conteúdo:
 
 * implementação da convolução no MATLAB/Octave  
 * comparação entre cálculo manual e computacional  
@@ -97,7 +97,7 @@ Contém:
 
 ---
 
-## 📂 `/atividade-5`
+### 📂 `/atividade-5`
 
 Contém:
 
@@ -105,7 +105,7 @@ Contém:
 * `sinal_original.png`
 * `sinal_suavizado.png`
 
-### ✔️ Conteúdo:
+#### ✔️ Conteúdo:
 
 * aplicação de filtro de média móvel  
 * suavização de sinais  
@@ -115,7 +115,7 @@ Contém:
 
 ---
 
-## 📂 `/atividade-6`
+### 📂 `/atividade-6`
 
 Contém:
 
@@ -131,7 +131,7 @@ Contém:
 
 ---
 
-## 📂 `/desafio-proposto`
+### 📂 `/desafio-proposto`
 
 Contém:
 
@@ -139,7 +139,7 @@ Contém:
 * `sinal_antes_e_depois.png`
 * `sinal_original_vs_ruidoso.png`
 
-### ✔️ Conteúdo:
+#### ✔️ Conteúdo:
 
 * aplicação prática em sistemas de aquisição de dados  
 * filtragem de ruído com média móvel  
@@ -150,7 +150,7 @@ Contém:
 
 ---
 
-# 🔬 Integração Teoria + Prática
+## 🔬 Integração Teoria + Prática
 
 O projeto demonstra que:
 
@@ -161,7 +161,7 @@ O projeto demonstra que:
 
 ---
 
-# 🚀 Aplicações em Engenharia
+## 🚀 Aplicações em Engenharia
 
 Os conceitos estudados são aplicados em:
 
@@ -173,7 +173,7 @@ Os conceitos estudados são aplicados em:
 
 ---
 
-# 🧩 Problema Norteador
+## 🧩 Problema Norteador
 
 > Como determinar a saída de um sistema discreto e garantir que ele seja estável, causal e adequado para aplicações reais?
 
@@ -185,7 +185,7 @@ Os conceitos estudados são aplicados em:
 
 ---
 
-# ✅ Conclusão
+## ✅ Conclusão
 
 Este estudo dirigido demonstrou, de forma integrada, como:
 
