@@ -58,7 +58,7 @@ Contém:
 Contém:
 
 * gráficos gerados nas simulações  
-* `README.md` com análises
+* `README.md` com respostas, análises, observações e conclusões
 
 #### ✔️ Conteúdo:
 
